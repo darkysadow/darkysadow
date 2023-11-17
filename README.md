@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @darkysadow
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning front-end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Greetings! 👋
 
-<!---
-darkysadow/darkysadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Oleksandr Poberezhniak, a front-end developer specializing in React, Next.js, and Redux. 
+My styling journey involves Tailwind CSS and Material UI, and I enjoy using Sass and Less
+preprocessors. Currently, Strapi is my go-to CMS.
+
+## Tech Stack Highlights
+
+- 🚀 React | Next.js | Redux
+- 💅 Tailwind CSS | Material UI
+- 🎨 Sass | Less
+- 📄 Strapi (CMS)
+
+## Explore My Projects
+
+- [oleg-wine](https://github.com/darkysadow/oleg-wine)
+- [cukernia](https://github.com/darkysadow/cukernia)
+
+## GitHub at a Glance
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkysadow&show_icons=true)
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/olexandr-poberezhniak-1391651a6/)
+- [Email](oleksandr.poberezhniak@gmail.com)
+
+## Thanks for Exploring! 🚀
