@@ -13,6 +13,7 @@ preprocessors. Currently, Strapi is my go-to CMS.
 
 ## Explore My Projects
 
+- [tableShop](https://github.com/darkysadow/tableShop)
 - [school attendance](https://github.com/darkysadow/school-attendance)
 - [VOBSME Website](https://github.com/darkysadow/next-vobsme)
 - [oleg-wine](https://github.com/darkysadow/oleg-wine)
