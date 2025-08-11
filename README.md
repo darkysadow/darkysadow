@@ -1,9 +1,5 @@
 # Greetings! 👋
 
-I'm Oleksandr Poberezhniak, a front-end developer specializing in React, Next.js, and Redux. 
-My styling journey involves Tailwind CSS and Material UI, and I enjoy using Sass and Less
-preprocessors. Currently, Strapi is my go-to CMS.
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/balasteition5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oleksandr-poberezhniak-1391651a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oleksandr.poberezhniak@gmail.com) 
 
